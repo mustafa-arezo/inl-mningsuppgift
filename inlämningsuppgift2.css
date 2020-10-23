@@ -1,0 +1,166 @@
+/* Header */
+header{
+    font-family: 'Lobster', cursive; 
+    background-color:#28abb9;
+    font-size: xx-large;
+    text-align: center;
+    margin-bottom: 0;  
+    position: relative;
+    bottom  : 10px;
+    
+
+
+}
+/* h1 och h2 är nestlad i header */
+/* h2 { 
+    background-color: lightblue;
+    color: gray;
+    text-align: center;
+}
+    */
+
+/* Alla h3 */
+h3 {
+    font-family: 'Lobster', cursive;
+    font-size:x-large;
+    font-weight: bold;
+    text-align: center;
+    margin:0px;
+    letter-spacing: 2px;
+    /* position: relative;
+    top: auto; */
+}
+
+/* Där man kan hämta hem html och css filerna */
+.summary {
+    background-color: #2d6187;
+    width: flex;
+    padding: 40px;
+    font-style: italic;
+    font-weight: lighter;
+    font-size:  larger;
+    text-decoration: underline;
+    text-align: center;
+    letter-spacing: 1px;
+    position: relative;
+    bottom  : 50px;
+
+   
+}
+
+/* Första texten */
+ .preamble {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+    background-color:#effad3;
+    margin:0px;
+    position: relative;
+    bottom: 50px;
+}
+
+
+/* andra texten */
+.explanation {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-color:#effad3;
+    text-align: center;
+    margin:0px;
+    position: relative;
+    bottom: 70px;
+   
+}
+
+/* tredje texten */
+.participation {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+    background-color:#effad3;
+    position: relative;
+    bottom: 88px;
+}
+    /* margin:0px; */
+/* fjärde texten */
+    .benefits{
+    background-color:#effad3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+    position: relative;
+    bottom: 107px;
+
+    }
+   
+
+    .requirements{
+    background-color:#effad3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align:center;
+    position: relative;
+    bottom: 125px;
+        
+    }
+    /* .requirements div{ 
+    background-color:#effad3;
+    }
+    */
+    /* footer{ 
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: large;
+        text-align: left;
+        background-color:#a8dda8;
+    }   */
+
+    div footer { 
+        text-align: center; 
+        border: 15px solid #a8dda8;
+        max-width: auto;
+        padding: 40px;
+        margin: auto;
+        position: relative;
+        bottom:120px;
+        background-color:#a8dda8;
+        }
+         footer:hover{
+         background-color:gray;
+
+        }
+     
+        footer a:link, footer a:visited { 
+        margin-right: 30px;
+         
+        } 
+
+        /* .wrapper{ 
+        background-color:#a8dda8;
+        text-align: center; 
+        position: relative;
+        bottom:120px;
+        margin:auto;
+        max-width:auto;
+        padding:30px;
+        }
+        */
+
+        .sidebar{
+        background-color:#a8dda8;
+        text-align: center; 
+        position: relative;
+        bottom:120px;
+        margin:auto;
+        max-width:auto;
+        padding:10px;
+       
+
+        }
+
+        ul{
+            text-align: left;
+            padding-left:45%;
+            font-family: cursive;
+        }
+
+        
